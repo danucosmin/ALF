@@ -8,7 +8,7 @@ $ javac Expr*.java
 
 
 
-ex input <br>
+Exemplu  <br>
  
 var=9 endl    <br>
 varr=var endl  <br>
