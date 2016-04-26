@@ -73,11 +73,5 @@ end: 'end'
 
 
 
-ex input
 
-var=9 endl
-varr=var endl
-iff<varr>9>
-da varr=1 endl
-nu varr=3 endl
 end
